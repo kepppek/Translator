@@ -1,0 +1,7 @@
+integer a,n,res
+begin
+a=2
+n=5
+res=a+3*(n+1)/a-1
+print res
+end

@@ -1,0 +1,4 @@
+integer a,n,res
+begin
+a=2+
+end

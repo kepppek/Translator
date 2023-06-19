@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.Resources">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAEAAAQAAAAAAAAAAAAAAAAgBAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.FileSystem">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAIAAAAAEAAAAAAAAAAAAAIAAAAgAAAEI=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Parse">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.NameTable">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Library.NameTable.VariableType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="Library.NameTable.Variable" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.LexicalAnalyzer">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Library.LexicalAnalyzer.TypeLexem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="Library.LexicalAnalyzer.Lexem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEoAAQQAABAAAAAgIAAAAAAEAAAAAAEEAAAAABgAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.SyntaxAnalyzer">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACQQCAAIAIAEgACAYACIAAEABIAAAAAAAAABBAEA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.CodeGenerator">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAgBAIAAAAAAAAAAAAAAIAAgAAAAAEAQAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

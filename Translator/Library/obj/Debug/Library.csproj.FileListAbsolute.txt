@@ -1,0 +1,36 @@
+C:\Users\SuperPC\Desktop\Translator\Library\bin\Debug\Library.dll
+C:\Users\SuperPC\Desktop\Translator\Library\bin\Debug\Library.pdb
+C:\Users\SuperPC\Desktop\Translator\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\SuperPC\Desktop\Translator\Library\obj\Debug\Library.dll
+C:\Users\SuperPC\Desktop\Translator\Library\obj\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Translator\Library\bin\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Translator\Library\bin\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Translator\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\Translator\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\Translator\Library\obj\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Translator\Library\obj\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\Library\bin\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\Library\bin\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\Library\obj\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\Library\obj\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\Library\bin\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\Library\bin\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\Library\obj\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\Library\obj\Debug\Library.pdb
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\Library\bin\Debug\Library.dll
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\Library\bin\Debug\Library.pdb
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\Library\obj\Debug\Library.dll
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\Library\obj\Debug\Library.pdb
+E:\Университет\4.1\Теория языков программирования\Translator\Library\bin\Debug\Library.dll
+E:\Университет\4.1\Теория языков программирования\Translator\Library\bin\Debug\Library.pdb
+E:\Университет\4.1\Теория языков программирования\Translator\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\Университет\4.1\Теория языков программирования\Translator\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Университет\4.1\Теория языков программирования\Translator\Library\obj\Debug\Library.dll
+E:\Университет\4.1\Теория языков программирования\Translator\Library\obj\Debug\Library.pdb
+C:\Users\SuperPC\Desktop\Translator\Library\obj\Debug\Library.csproj.AssemblyReference.cache

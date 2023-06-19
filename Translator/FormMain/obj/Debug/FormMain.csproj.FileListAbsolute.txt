@@ -1,0 +1,79 @@
+C:\Users\SuperPC\Desktop\Translator\FormMain\bin\Debug\FormMain.exe.config
+C:\Users\SuperPC\Desktop\Translator\FormMain\bin\Debug\FormMain.exe
+C:\Users\SuperPC\Desktop\Translator\FormMain\bin\Debug\FormMain.pdb
+C:\Users\SuperPC\Desktop\Translator\FormMain\bin\Debug\Library.dll
+C:\Users\SuperPC\Desktop\Translator\FormMain\bin\Debug\Library.pdb
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.Form1.resources
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.GenerateResource.cache
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.CoreCompileInputs.cache
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.CopyComplete
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.exe
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.pdb
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\bin\Debug\FormMain.exe.config
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\bin\Debug\FormMain.exe
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\bin\Debug\FormMain.pdb
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\bin\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\bin\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.Form1.resources
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.GenerateResource.cache
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.CopyComplete
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.exe
+C:\Users\SuperPuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.pdb
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\bin\Debug\FormMain.exe.config
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\bin\Debug\FormMain.exe
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\bin\Debug\FormMain.pdb
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\bin\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\bin\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.Form1.resources
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.csproj.GenerateResource.cache
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.csproj.CopyComplete
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.exe
+C:\Users\SuperPuperPC\Desktop\Калабин\Курсовая работа\Translator\FormMain\obj\Debug\FormMain.pdb
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\bin\Debug\FormMain.exe.config
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\bin\Debug\FormMain.exe
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\bin\Debug\FormMain.pdb
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\bin\Debug\Library.dll
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\bin\Debug\Library.pdb
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.Form1.resources
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.csproj.GenerateResource.cache
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.csproj.CopyComplete
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.exe
+C:\Users\SuperPuperPC\Desktop\Kalabin\Kersrab\Translator\FormMain\obj\Debug\FormMain.pdb
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\bin\Debug\FormMain.exe.config
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\bin\Debug\FormMain.exe
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\bin\Debug\FormMain.pdb
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\bin\Debug\Library.dll
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\bin\Debug\Library.pdb
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.csprojAssemblyReference.cache
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.Form1.resources
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.csproj.GenerateResource.cache
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.csproj.CoreCompileInputs.cache
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.csproj.CopyComplete
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.exe
+D:\Университет\4.1\Теория языков программирования\Оно\Kersrab\Translator\FormMain\obj\Debug\FormMain.pdb
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\bin\Debug\FormMain.exe.config
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\bin\Debug\FormMain.exe
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\bin\Debug\FormMain.pdb
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\bin\Debug\Library.dll
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\bin\Debug\Library.pdb
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.csprojAssemblyReference.cache
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.Form1.resources
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.csproj.GenerateResource.cache
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.csproj.CoreCompileInputs.cache
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.csproj.CopyComplete
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.exe
+E:\Университет\4.1\Теория языков программирования\Translator\FormMain\obj\Debug\FormMain.pdb
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.AssemblyReference.cache
+C:\Users\SuperPC\Desktop\Translator\FormMain\obj\Debug\FormMain.csproj.SuggestedBindingRedirects.cache

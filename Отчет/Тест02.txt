@@ -1,0 +1,12 @@
+integer a,b
+logical c,d
+begin
+c=1
+until c
+case a
+"6":c=0
+endcase
+a=a+1
+print a
+enduntil
+end
